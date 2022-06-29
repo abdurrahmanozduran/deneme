@@ -6,10 +6,16 @@
 !.vscode/extensions.json
 
 # img
-*.img
+*.jpg
 *.png
-logo.jpg
+img/
 
 # videos
+*.mp4
+
+
 # packages
+
+
 # log 
+*.log 
