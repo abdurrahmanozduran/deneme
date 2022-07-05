@@ -1,6 +1,6 @@
 # deneme
 
 ## alt bilgi
-  aldıkaçtı
+  aldıkaçtı getirgit
   [lorem ipsum](http://google.com)
   
